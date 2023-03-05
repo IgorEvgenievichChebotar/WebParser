@@ -1,4 +1,4 @@
-﻿namespace WebParser;
+﻿namespace WebParser.Schemes;
 
 public class Request
 {

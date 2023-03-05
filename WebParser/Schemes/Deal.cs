@@ -1,7 +1,7 @@
 ﻿#nullable enable
 using System;
 
-namespace WebParser;
+namespace WebParser.Schemes;
 
 public class Deal
 {

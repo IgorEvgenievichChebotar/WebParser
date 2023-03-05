@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WebParser;
+namespace WebParser.Schemes;
 
 public class Response
 {

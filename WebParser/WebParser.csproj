@@ -85,9 +85,9 @@
     <ItemGroup>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Deal.cs" />
-        <Compile Include="Request.cs" />
-        <Compile Include="Response.cs" />
+        <Compile Include="Schemes\Deal.cs" />
+        <Compile Include="Schemes\Request.cs" />
+        <Compile Include="Schemes\Response.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="App.config" />
